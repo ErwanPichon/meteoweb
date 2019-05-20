@@ -1,0 +1,22 @@
+{
+  "name": "meteoweb",
+  "version": "1.0.0",
+  "description": "appli météo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErwanPichon/meteoweb.git"
+  },
+  "author": "erwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErwanPichon/meteoweb/issues"
+  },
+  "homepage": "https://github.com/ErwanPichon/meteoweb#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
